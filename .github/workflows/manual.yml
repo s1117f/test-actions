@@ -17,4 +17,4 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - uses: s1117f/hello_world_action@v0.3
+    - uses: s1117f/hello_world_action@0.3
